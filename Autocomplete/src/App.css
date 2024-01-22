@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Josefin+Sans&family=Poppins&family=Rubik+Doodle+Shadow&display=swap');
+
 body {
   background-color: lightblue;
 }
@@ -7,6 +9,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin-top: 20px;
+  font-family: 'Poppins';
 }
 
 .search-container {
@@ -18,6 +21,7 @@ input {
   margin-right: 5px;
   font-size: 22px;
   width: 250px;
+  font-family: 'Poppins';
 }
 
 button {
@@ -36,11 +40,11 @@ button:hover {
 
 .select-container {
   margin-top: 10px;
-  font-size: 50px;
 }
 
 .select {
   font-size: 20px;
+  font-family: 'Poppins';
   display: flex;
   justify-content: start;
   align-items: start;

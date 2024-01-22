@@ -30,6 +30,7 @@ const App = () => {
   return (
     <div className="main">
       {/* Input box and search button */}
+      <h1>Search</h1>
       <div className="search-container">
         <input
           type="text"
